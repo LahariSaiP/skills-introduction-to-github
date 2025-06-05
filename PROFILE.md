@@ -1,1 +1,1 @@
-just creating a sample file
+Welcome to my GitHub profile!
